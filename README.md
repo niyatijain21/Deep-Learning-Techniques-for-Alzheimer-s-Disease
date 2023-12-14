@@ -1,1 +1,1 @@
-# Deep-Learning-Techniques-for-Alzheimer-s-Disease
+# Deep-Learning-Techniques-for-Alzheimer's Disease
