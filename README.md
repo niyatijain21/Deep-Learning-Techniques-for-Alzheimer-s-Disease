@@ -1,1 +1,1 @@
-# Deep-Learning-Techniques-for-Alzheimer's Disease
+The document presents four research papers collectively contributing to Alzheimer's disease detection and prediction, employing advanced computation and deep learning models, showcasing their innovative methodologies, groundbreaking results, and significant contributions to the evolving landscape of Alzheimer's research.
